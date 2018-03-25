@@ -36,3 +36,4 @@ code-snippet for above is ------
 <img src=""><!-- this is where you place your right arrow image or a svg-->
 </div>
 </div>
+  <!--TO update the carousel width override carousel-container class--> 
