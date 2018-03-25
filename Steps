@@ -1,5 +1,6 @@
 # CarouselWithJQuery
 using jquery to design a carousel
+include jquery.min.js in ur script tags
 include file carousel.js in your scripts also
 include css file carousel.css in your link tags
 Steps
