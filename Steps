@@ -15,6 +15,7 @@ inside this 'next' id div
 
 
 code-snippet for above is ------
+
 <div class="carousel-container">
 <div id="prev">
 <img src=""><!-- this is where you place your left arrow image or a svg-->
